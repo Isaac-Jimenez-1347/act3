@@ -10,9 +10,9 @@
       "stock": 25,
       "brand": "TimeMaster",
       "category": "relojes",
-      "images": [
+      "images": 
         "https://raw.githubusercontent.com/Isaac-Jimenez-1347/Relojeria-TempusLux-_imgs_app_Flutter/refs/heads/main/reloj1.jpg"
-      ]
+      
     },
     {
       "id": 2,
@@ -24,9 +24,9 @@
       "stock": 40,
       "brand": "FitGear",
       "category": "relojes",
-      "images": [
+      "images": 
         "https://raw.githubusercontent.com/Isaac-Jimenez-1347/Relojeria-TempusLux-_imgs_app_Flutter/refs/heads/main/reloj2.jpg"
-      ]
+      
     },
     {
       "id": 3,
@@ -38,9 +38,9 @@
       "stock": 10,
       "brand": "LuxuryTime",
       "category": "relojes",
-      "images": [
+      "images": 
         "https://raw.githubusercontent.com/Isaac-Jimenez-1347/Relojeria-TempusLux-_imgs_app_Flutter/refs/heads/main/reloj3.jpg"
-      ]
+      
     },
     {
       "id": 4,
@@ -52,9 +52,9 @@
       "stock": 35,
       "brand": "SimpleWatch",
       "category": "relojes",
-      "images": [
+      "images": 
         "https://raw.githubusercontent.com/Isaac-Jimenez-1347/Relojeria-TempusLux-_imgs_app_Flutter/refs/heads/main/Rolex-Daytona-116508.png"
-      ]
+      
     },
     {
       "id": 5,
@@ -66,9 +66,9 @@
       "stock": 18,
       "brand": "RetroTime",
       "category": "relojes",
-      "images": [
+      "images": 
         "https://raw.githubusercontent.com/Isaac-Jimenez-1347/Relojeria-TempusLux-_imgs_app_Flutter/refs/heads/main/pngtree-rolex-cosmograph-daytona-watch-png-image_13024242.png"
-      ]
+      
     }
   ],
   "total": 5,
