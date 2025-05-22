@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Reloj Clásico",
+      "description": "Elegante reloj de pulsera con correa de cuero.",
+      "price": 120,
+      "discountPercentage": 10.0,
+      "rating": 4.5,
+      "stock": 25,
+      "brand": "TimeMaster",
+      "category": "relojes",
+      "images": [
+        "https://example.com/relojes/clasico1.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Smartwatch Deportivo",
+      "description": "Reloj inteligente con monitoreo de actividad y GPS.",
+      "price": 199,
+      "discountPercentage": 5.0,
+      "rating": 4.8,
+      "stock": 40,
+      "brand": "FitGear",
+      "category": "relojes",
+      "images": [
+        "https://example.com/relojes/smartwatch1.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Reloj de Lujo",
+      "description": "Reloj de alta gama con detalles en oro.",
+      "price": 1500,
+      "discountPercentage": 15.0,
+      "rating": 4.9,
+      "stock": 10,
+      "brand": "LuxuryTime",
+      "category": "relojes",
+      "images": [
+        "https://example.com/relojes/lujo1.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Reloj Minimalista",
+      "description": "Diseño moderno y simple para uso diario.",
+      "price": 85,
+      "discountPercentage": 7.5,
+      "rating": 4.2,
+      "stock": 35,
+      "brand": "SimpleWatch",
+      "category": "relojes",
+      "images": [
+        "https://example.com/relojes/minimalista1.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Reloj Vintage",
+      "description": "Estilo retro con mecanismo visible.",
+      "price": 300,
+      "discountPercentage": 12.0,
+      "rating": 4.6,
+      "stock": 18,
+      "brand": "RetroTime",
+      "category": "relojes",
+      "images": [
+        "https://example.com/relojes/vintage1.jpg"
+      ]
+    }
+  ],
+  "total": 5,
+  "skip": 0,
+  "limit": 5
+}
